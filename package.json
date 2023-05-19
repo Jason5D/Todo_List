@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "serve front_end"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.32.2",
+    "serve": "^14.2.0"
+  }
+}
